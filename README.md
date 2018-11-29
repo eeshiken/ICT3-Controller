@@ -1,7 +1,9 @@
 
 # Industial Control Trainer LabVIEW GUI :computer:
 
-LabVIEW GUI for the Bytronic ICT3 (Industrial Control Trainer)
+LabVIEW GUI for the Bytronic ICT3 (Industrial Control Trainer).
+
+> MSE 310 Course Project FAll 2018.
 
 ## Requirements
 
